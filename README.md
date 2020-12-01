@@ -1,6 +1,6 @@
 Data Structures and Algorithms project (IT-353).
 
-It is a C++ project which is written in 2020 by Sarthak Mishra and Sanskar Sogani for Data Structures and Algorithms class.
+It is a C project which is written in 2020 by Sarthak Mishra and Sanskar Sogani for Data Structures and Algorithms class.
 
 It takes a text file and counts the words in that file and also returns the frequency of each word alphabetically. There is more information on Project Report.pdf file.
 
